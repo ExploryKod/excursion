@@ -1,3 +1,3 @@
 # excursion
-It is a tiny project to make my first step in the world of Github pages. 
+It is a tiny project to make my first step in the world of Github repositories. 
 I am grateful to Codecademy for the learning ressources they give me to achieve this project.
